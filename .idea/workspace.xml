@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1c782fd-29cd-4a96-bd32-9c1481889365" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/readme.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/~$readme.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/~WRL0003.tmp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/individual-project-2-ali74110/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/individual-project-2-ali74110/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/The-Oxford-3000-master/The-Oxford-3000-master/The_Oxford_3000.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resources/The-Oxford-3000-master/The-Oxford-3000-master/The_Oxford_3000.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,13 +24,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1rGFUaD79rGVN9oSMa3H5adzwzd" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="C:/sdk" />
@@ -65,12 +69,24 @@
       <updated>1618594535758</updated>
       <workItem from="1618594540876" duration="31000" />
       <workItem from="1618594597096" duration="7488000" />
-      <workItem from="1618612771135" duration="4698000" />
+      <workItem from="1618612771135" duration="5913000" />
     </task>
+    <task id="LOCAL‎۰۰۰۰۱" summary="use dynamic programming.&#10;project works perfectly.">
+      <created>1618620031462</created>
+      <option name="number" value="LOCAL‎۰۰۰۰۱" />
+      <option name="presentableId" value="LOCAL‎۰۰۰۰۱" />
+      <updated>1618620031462</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="use dynamic programming.&#10;project works perfectly." />
+    <option name="LAST_COMMIT_MESSAGE" value="use dynamic programming.&#10;project works perfectly." />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="72" key="#Project_Structure" timestamp="1618594858297">
@@ -81,22 +97,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1618598342629" />
-    <state width="1487" height="232" key="GridCell.Tab.0.bottom" timestamp="1618619378079">
+    <state x="256" y="0" key="CommitChangelistDialog2" timestamp="1618620028842">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1487" height="232" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1618619378079" />
-    <state width="1487" height="232" key="GridCell.Tab.0.center" timestamp="1618619378079">
+    <state x="256" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1618620028842" />
+    <state width="1487" height="246" key="GridCell.Tab.0.bottom" timestamp="1618620466507">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1487" height="232" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1618619378079" />
-    <state width="1487" height="232" key="GridCell.Tab.0.left" timestamp="1618619378079">
+    <state width="1487" height="246" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1618620466507" />
+    <state width="1487" height="246" key="GridCell.Tab.0.center" timestamp="1618620466507">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1487" height="232" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1618619378079" />
-    <state width="1487" height="232" key="GridCell.Tab.0.right" timestamp="1618619378079">
+    <state width="1487" height="246" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1618620466507" />
+    <state width="1487" height="246" key="GridCell.Tab.0.left" timestamp="1618620466506">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1487" height="232" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1618619378079" />
+    <state width="1487" height="246" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1618620466506" />
+    <state width="1487" height="246" key="GridCell.Tab.0.right" timestamp="1618620466507">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1487" height="246" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1618620466507" />
     <state x="279" y="54" key="SettingsEditor" timestamp="1618594630550">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
